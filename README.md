@@ -2,8 +2,8 @@
 
 This assignment was to refactor a web page by:
 
-* cleaning up broken code & links
-* reorganizing and compacting code
-* adding semantic tags
-* adding comments
+* Cleaning up broken code & links
+* Reorganizing and compacting code
+* Adding semantic tags
+* Adding comments & etc.
 
